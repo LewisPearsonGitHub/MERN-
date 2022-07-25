@@ -13,28 +13,6 @@
   }
 }
 
-.App-logo2 {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo2 {
-    animation: App-logo-spin2 infinite 20s linear;
-  }
-}
-
-.App-logo2 {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo2 {
-    animation: App-logo-spin2 infinite 5s linear;
-  }
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -59,11 +37,3 @@
   }
 }
 
-@keyframes App-logo-spin2 {
-  from {
-    transform: rotate(360deg);
-  }
-  to {
-    transform: rotate(0deg);
-  }
-}

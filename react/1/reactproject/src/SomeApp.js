@@ -22,7 +22,7 @@ const SomeApp = () => {
         
         <div>
             
-            <p>{element}{element}{element}{element}{element}</p>
+            <p>{element}</p>
             <h1>{address.forename}</h1>
             <h1>{address.surname}</h1>
             <h1>{address.line1}</h1>
